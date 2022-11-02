@@ -4,7 +4,7 @@
 #
 Name     : R-DiagrammeR
 Version  : 1.0.9
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/DiagrammeR_1.0.9.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/DiagrammeR_1.0.9.tar.gz
 Summary  : Graph/Network Visualization
